@@ -11,7 +11,7 @@
 
 | resource                   | link                                                                                      |
 | -------------------------- | ----------------------------------------------------------------------------------------- |
-| PROD codebase              | [`main`](https://github.com/sclary2001/GOLF/tree/main)                                    |
+| PROD codebase              | [`main`]([https://github.com/sclary2001/GOLF/tree/main](https://github.com/sclary2001/Golf-MD-Project))                                    |
 | PROD server                | `GCP_PROD_URL_HERE`                                                                       |
 | DEV codebase               | [`dev`](https://github.com/sclary2001/GOLF/tree/dev)                                      |
 | DEV server                 | [`RENDER_DEV_URL_HERE`](https://golf-md-project.onrender.com/)                                                                     |
