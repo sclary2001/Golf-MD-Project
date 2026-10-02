@@ -13,7 +13,7 @@
 | -------------------------- | ----------------------------------------------------------------------------------------- |
 | PROD codebase              |  [main](https://github.com/sclary2001/Golf-MD-Project)                                    |
 | PROD server                | `GCP_PROD_URL_HERE`                                                                       |
-| DEV codebase               | [`dev`][https://github.com/sclary2001/GOLF/tree/dev](http://localhost:3000)                                     |
+| DEV codebase               | [`dev`](http://localhost:3000)                                     |
 | DEV server                 | [`RENDER_DEV_URL_HERE`](https://golf-md-project.onrender.com/)                                                                     |
 | docs                       | [`docs/`](https://github.com/sclary2001/GOLF/tree/main/docs)                              |
 | published docs             | `GITHUB_PAGES_URL_HERE`                                                                   |
